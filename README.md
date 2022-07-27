@@ -8,6 +8,11 @@ The machine learning model implemented by Jupyter to estimate data scientists' s
 ## How will this project help?
 • This project **helps data scientist/analyst to negotiate their income for an existing or a new job**
 
+## Installation
+* Requires Python running version 3.6 or higher
+* Install jupyter package `pip install jupyter`
+
+
 ## Resources Used
 • Packages: **pandas, numpy, sklearn, matplotlib, seaborn.**<br/>
 • Dataset by **Ken Jee**: https://github.com/PlayingNumbers/ds_salary_proj
